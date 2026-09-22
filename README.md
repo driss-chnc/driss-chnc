@@ -69,22 +69,6 @@ Travail réalisé autour de :
 
 ---
 
-### 🛠️ LocaTool
-
-Projet d'application autour de la **location et du partage d'outils**.
-
-Fonctionnalités envisagées :
-- 🔎 Recherche d'outils
-- 📍 Localisation des outils
-- 🛠️ Fiches produits
-- 💬 Messagerie
-- 👤 Profils utilisateurs
-- 📱 Interface mobile
-
-➡️ [Voir le projet](#)
-
----
-
 ### 🎓 Projets Holberton School
 
 Une grande partie de mon apprentissage passe par des projets pratiques.
