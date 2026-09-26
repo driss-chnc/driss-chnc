@@ -26,7 +26,7 @@ Automotive web application developed during my training.
 
 [View project](https://github.com/driss-chnc/BlackLineAuto)
 
-### 🤖 ABI
+### 🛍️ ABI
 AI-focused application currently under development.
 
 [View project](https://github.com/driss-chnc/ABI)
