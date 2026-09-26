@@ -26,16 +26,13 @@ Automotive web application developed during my training.
 
 [View project](https://github.com/driss-chnc/BlackLineAuto)
 
+### 🤖 ABI
+AI-focused application currently under development.
+
+[View project](https://github.com/driss-chnc/ABI)
+
 ### 💻 Holberton School Projects
 Software engineering projects covering C, Python, Linux, algorithms, data structures and Docker.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=driss-chnc&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=driss-chnc&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
